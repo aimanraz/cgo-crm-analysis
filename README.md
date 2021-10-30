@@ -28,10 +28,12 @@ Visualization that might answered the following question.
 ![Top 12 crime](https://github.com/aimanraz/cgo-crm-analysis/blob/main/img/top12crime.JPG)
 ![Crime distribution](https://github.com/aimanraz/cgo-crm-analysis/blob/main/img/crime_dist.png)
 
-* Observing which crime tha have median above 50/day.
+* Observing which crime that have median above 50/day.
+
 ![Dashboard](https://github.com/aimanraz/cgo-crm-analysis/blob/main/img/boxplt.png)
 
 * Top crime with its spread in chicago.
+
 ![Dashboard](https://github.com/aimanraz/cgo-crm-analysis/blob/main/img/analyze_spread.png)
 
 let the data drive you...and beyond.
