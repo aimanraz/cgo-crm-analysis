@@ -14,7 +14,7 @@ Disclaimer: This dataset reflects reported incidents of crime (with the exceptio
 
 ![Dataset](https://github.com/aimanraz/cgo-crm-analysis/blob/main/img/top_row.JPG)
 
-## Question need to be answered
+## Questions need to be answered
 
 1. What are the top 12 most common crimes of the period?
 2. What are the crime types that have median above 50 crimes/day?
