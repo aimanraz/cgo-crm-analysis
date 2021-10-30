@@ -37,7 +37,7 @@ Visualization that might answered the following question.
 ![Dashboard](https://github.com/aimanraz/cgo-crm-analysis/blob/main/img/analyze_spread.png)
 
 ## Conclusion
-1. Based from the analysis top crime in chicago is battery with 32916 occurance(that was spotted). 
+1. Based from the analysis top crime in chicago is battery with 32916 occurance. 
 2. The top 12 crime are 
     * Battery
     * Theft
