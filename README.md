@@ -39,21 +39,21 @@ Visualization that might answered the following question.
 ## Conclusion
 1. Based from the analysis top crime in chicago is battery with 32916 occurance(that was spotted). 
 2. The top 12 crime are 
-* Battery
-* Theft
-* Criminal damage
-* Assault
-* Deceptive practice
-* Other offense
-* Motor vehicle theft
-* Weapon isolation
-* Robbery
-* Narcotics
-* Criminal trespass
+    * Battery
+    * Theft
+    * Criminal damage
+    * Assault
+    * Deceptive practice
+    * Other offense
+    * Motor vehicle theft
+    * Weapon isolation
+    * Robbery
+    * Narcotics
+    * Criminal trespass
 3. The average median of crime which more than 50 crime/day are:
-* Battery
-* Theft
-* Criminal damage
-* Assault
+    * Battery
+    * Theft
+    * Criminal damage
+    * Assault
 
 let the data drive you...and beyond.
