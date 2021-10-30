@@ -1,4 +1,4 @@
-# Project Overview : 2021 Chicago Crime Data Analysis
+# 2021 Chicago Crime Data Analysis
 
 The main idea of the analysis is to help the City of Chicago makes sense of data collected in order to find important about how to improve law enforcement actions to prevent crime. 
 
