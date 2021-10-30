@@ -24,6 +24,7 @@ Disclaimer: This dataset reflects reported incidents of crime (with the exceptio
 Visualization that might answered the following question.
 
 * Top 12 Crime and overall crime distribution.
+
 ![Top 12 crime](https://github.com/aimanraz/cgo-crm-analysis/blob/main/img/top12crime.JPG)
 ![Crime distribution](https://github.com/aimanraz/cgo-crm-analysis/blob/main/img/crime_dist.png)
 
