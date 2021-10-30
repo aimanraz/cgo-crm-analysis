@@ -32,7 +32,7 @@ Visualization that might answered the following question.
 
 ![Dashboard](https://github.com/aimanraz/cgo-crm-analysis/blob/main/img/boxplt.png)
 
-3. Top crime with its spread in chicago.
+3. Top crime(battery) with its spread in chicago.
 
 ![Dashboard](https://github.com/aimanraz/cgo-crm-analysis/blob/main/img/analyze_spread.png)
 
